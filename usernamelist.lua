@@ -1,4 +1,4 @@
-return = {
+return {
 	buyerUsername = {
 	buyerAutoRest = {"zipo","garoxx","keano1","ifhul1"},
 	buyerAutoFind = {"zipo","garoxx","icebear57"},
